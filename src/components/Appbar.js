@@ -61,10 +61,10 @@ export default function Appbar() {
                 </div>
 
                 <ul>
-                    <li><a href="https://www.linkedin.com/in/wajahat-abbas-084352194/"></a>Home</li>
-                    <li><a href="https://www.linkedin.com/in/wajahat-abbas-084352194/"></a>About</li>
-                    <li><a href="https://www.linkedin.com/in/wajahat-abbas-084352194/"></a>Contact</li>
-                    <li><a href="http://venomaz.surge.sh/"></a>Portfolio</li>
+                    <li><a href="https://www.linkedin.com/in/wajahat-abbas-084352194/">Home</a></li>
+                    <li><a href="https://www.linkedin.com/in/wajahat-abbas-084352194/">About</a></li>
+                    <li><a href="https://www.linkedin.com/in/wajahat-abbas-084352194/">Contact</a></li>
+                    <li><a href="http://venomaz.surge.sh/">Portfolio</a></li>
                 </ul>
 
             </nav>
